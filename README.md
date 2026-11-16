@@ -168,7 +168,6 @@ function addTask() {
 
 
 ## OUTPUT
-![alt text](<Screenshot 2026-11-16 211855-1.png>)
-
+![alt text](<Screenshot 2026-11-16 211855.png>)
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
